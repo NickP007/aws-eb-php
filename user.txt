@@ -1,0 +1,3 @@
+user: NP_JenkUser
+Access key ID: AKIA255OH7M6XJ6MUQWM
+Secret access key: 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
