@@ -30,7 +30,7 @@ else
     </section>
 
     <section class="instructions">
-        <h3>Deploy Test 4</h3>
+        <h3>Deploy Test 5</h3>
         <h2>What's Next?</h2>
         <ul>
             <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
